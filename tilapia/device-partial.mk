@@ -15,8 +15,10 @@
 # Asus blob(s) necessary for Tilapia hardware
 PRODUCT_PACKAGES := \
     sensors-config \
+    apns-conf \
     camera.tegra3 \
     sensors.grouper \
     libsensors.lightsensor \
+    libxgold-ril \
     libdrmwvmplugin \
     libwvm
