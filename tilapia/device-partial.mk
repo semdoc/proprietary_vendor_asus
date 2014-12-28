@@ -12,13 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Asus blob(s) necessary for Grouper hardware
+# Asus blob(s) necessary for Tilapia hardware
 PRODUCT_PACKAGES := \
     sensors-config \
-    apns-conf \
     camera.tegra3 \
     sensors.grouper \
     libsensors.lightsensor \
-    libxgold-ril \
     libdrmwvmplugin \
     libwvm
